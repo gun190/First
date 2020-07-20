@@ -5,5 +5,7 @@ public class helloword {
         System.out.println("hello word");
         System.out.println("hello word");
         System.out.println("hello word");
+        System.out.println("hello Deloitte");
+        System.out.println("hello Deloitte");
     }
 }
